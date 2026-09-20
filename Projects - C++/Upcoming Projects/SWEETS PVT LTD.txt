@@ -1,0 +1,42 @@
+                                       SWEETS PVT LTD
+
+V-122/2 Fatehpuri Road , Rajouri Garden , Near Pacific Mall, New 
+                                        Delhi - 110058                                           
+                                                                                                            
+				    Mo. No. : 9213322901
+				GSIN : 07AAKCG1816H1Z0                                
+				   FSSAI : 1320006000107       
+				          TAX  INVOICE                                           
+
+Bill no :
+Bill date :
+Bill type : 
+Cashier : 
+-------------------------------------------------------------------------
+No of Items :                                                         Time : 
+-------------------------------------------------------------------------
+SN DESCRIPTION                             OTY            RATE         AMOUNT
+-------------------------------------------------------------------------
+Product name                                     xx              xxxx            xxxxxxx
+-------------------------------------------------------------------------
+    Net Qty : xxx.xxx                                              Bill Total : xxxx.x
+-------------------------------------------------------------------------
+Tax                                              TaxableAmt                   TaxAmt
+CGST@2.5 :                                   XXX.X                             XX.X
+SCST@2.5 :                                    XXX.X                            XX.X
+-------------------------------------------------------------------------
+ 						   Total Tax :                         XX.X
+						   Round off :                        XX.X 
+-------------------------------------------------------------------------
+                                  Payable Amt : XXX.X
+-------------------------------------------------------------------------
+Payment Mode -  Card:- x@xxxx.x
+				                Tender Amount : XXX.X
+						Balance Amount : X.XX
+						Card Invoice NO : XXXXX
+-------------------------------------------------------------------------
+                                      Token No. : XXX
+                       For Online Feedback Customercare
+                                         @xxxx.xxx
+                              Powered by XXXXXXX()
+			

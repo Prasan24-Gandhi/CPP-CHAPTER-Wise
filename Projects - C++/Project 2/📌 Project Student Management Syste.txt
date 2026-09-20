@@ -1,0 +1,31 @@
+📌 Project: Student Management System
+
+✅ Features:
+Basic Syntax & Structure: Program ka proper layout
+Variables & Data Types: Student ka data store karna
+Input/Output Handling: User se input lena aur output dikhana
+Operators & Type Casting: Average marks calculate karna
+Conditional Statements (If-Else, Switch): Marks ke basis pe grade assign karna
+Loops (For, While, Do-While): Multiple students ka data handle karna
+Break & Continue: Data filtering ke liye
+Pointers & Dynamic Memory Allocation: Heap memory use karna
+Structures & Unions: Student details ko organize karna
+Functions & Recursion: Data processing functions likhna
+Function Overloading: Different ways se input lena
+OOP Concepts (Classes, Objects, Encapsulation, Inheritance, Polymorphism): Student management ko class-based system me implement karna
+Static Members: Total students ka count maintain karna
+Friend Functions: Private data ko access karne ke liye
+File Handling: Student ka data save aur retrieve karna (Extra Feature)
+
+📌 Input:
+Student Name, ID
+Marks (multiple subjects ke liye array)
+
+📌 Processing:
+Average marks calculate karna
+Grade assign karna (If-Else & Switch)
+Data dynamically allocate karna (Pointers)
+
+📌 Output:
+Student details, marks, grade
+Total students ka count (Static Variable)

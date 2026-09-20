@@ -1,0 +1,8 @@
+
+
+
+                    |Public Derivation  | Private Derivation | Protected Derivation
+                    |                   |                    |
+Private member      | Not inherited     | Not inherited      | Not inherited 
+Public member       | Public            | Private            | Protected
+Protected member    | Protected         | Private            | Protected

@@ -1,0 +1,9 @@
+void print(void){
+    cout<<"------------------------------"<<endl;
+    cout<<"Student's Information: "<<endl;
+    cout<<"Name: "<<name<<endl;
+    cout<<"Class: "<<cls<<endl;
+    cout<<"Student's ID: "<<ID<<endl;
+}
+
+
